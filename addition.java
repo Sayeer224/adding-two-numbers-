@@ -1,7 +1,7 @@
 import java.awt.*;
 import java.awt.event.*;
 
-class ex1 extends Frame implements ActionListener
+class addition extends Frame implements ActionListener
 {
  Label l1,l2,l3,l4;
  TextField t1,t2;
